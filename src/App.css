@@ -1,0 +1,27 @@
+.custom-toggle::after {
+  display: none !important;  
+}
+
+#table{
+  border: solid 1px;
+}
+
+#tablehead{
+  background-color:rgba(231, 69, 10, 0.749);
+}
+
+#chart{
+  height: 300px;
+}
+#paragraph{
+  text-align: justify;
+}
+
+#chart1{
+  height: 350px;
+}
+
+#nxt:hover{
+  background-color:rgba(231, 69, 10, 0.749) ;
+}
+
